@@ -1,0 +1,7 @@
+total_sales,total_profit,total_orders,avg_profit_margin,top_categories,best_region,best_costomer_segment
+12559437.45,3078985.73,1000,24.51531561232466,"Category
+Furniture          851226.27
+Electronics        802691.29
+Grocery            723896.10
+Office Supplies    701172.07
+Name: Profit, dtype: float64",North,Home Office
