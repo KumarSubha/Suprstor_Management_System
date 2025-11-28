@@ -102,8 +102,4 @@ Superstore-Management-System/
 
 ---
 
-## 🚀 How to Run the Project
 
-### Clone the repository
-```bash
-git clone https://github.com/KumarSubha/superstore-management-system.git
